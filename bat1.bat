@@ -1,0 +1,2 @@
+ mkdir C:\VTS
+pause
